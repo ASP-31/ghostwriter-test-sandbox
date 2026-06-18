@@ -1,10 +1,4 @@
-print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
 
-print("wassup")
 # Lines 1-15: Import all necessary libraries for the machine learning pipeline
 import logging
 import os
